@@ -176,3 +176,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Archivos CSV
+*.csv
+
+# Archivos de entorno
+*.env
+*.ENV
+
